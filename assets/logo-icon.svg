@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="405 90 795 522" role="img" aria-label="Li Construction logo mark">
+  <polygon fill="#FFFFFF" points="411,251 550,184 550,514 810,514 810,606 411,606"/>
+  <polygon fill="#FFFFFF" points="567,229 801,96 801,161 567,295"/>
+  <polygon fill="#DBA50F" points="817,96 1193,317 1193,385 817,161"/>
+  <polygon fill="#DBA50F" points="876,220 1007,295 1007,606 876,606"/>
+  <g fill="#FFFFFF">
+    <rect x="652" y="307" width="52" height="52"/>
+    <rect x="719" y="307" width="52" height="52"/>
+    <rect x="652" y="373" width="52" height="52"/>
+    <rect x="719" y="373" width="52" height="52"/>
+  </g>
+</svg>
